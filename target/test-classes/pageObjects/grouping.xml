@@ -6,7 +6,7 @@
 	  <parameter name="os" value="windows"></parameter>
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testCases.TC003_LoginDDT"/>
+      <class name="testCases.TC001_AccountrRgistration"/>
     </classes>
   </test> <!-- Testng -->
 </suite> <!-- Suite -->

@@ -7,6 +7,7 @@ C:\Users\sreek\eclipse-workspace\framework\src\test\java\testBase\BaseClass.java
 C:\Users\sreek\eclipse-workspace\framework\src\test\java\testCases\TC001_AccountrRgistration.java
 C:\Users\sreek\eclipse-workspace\framework\src\test\java\testCases\TC002_Login.java
 C:\Users\sreek\eclipse-workspace\framework\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\sreek\eclipse-workspace\framework\src\test\java\testCases\TC004_Image.java
 C:\Users\sreek\eclipse-workspace\framework\src\test\java\utilities\DataProviders.java
 C:\Users\sreek\eclipse-workspace\framework\src\test\java\utilities\ExcelUtility.java
 C:\Users\sreek\eclipse-workspace\framework\src\test\java\utilities\ExtentReportManager.java
