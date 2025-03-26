@@ -1,0 +1,11 @@
+
+Step 1: go to download by executing below command
+
+cd downloads
+
+Step 2: To start jenkins execute below commands 
+
+java -jar jenkins.war --httpPort=8080
+
+
+
