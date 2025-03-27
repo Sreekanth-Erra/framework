@@ -24,7 +24,7 @@ public class TC001_AccountrRgistration extends BaseClass {
 		hp.clickAccount();
 		
 		logger.info("***** Registration started Successfully*****");
-		System.out.println("It is through CICD pipeline");
+		System.out.println("It is through CICD pipeline update");
 		hp.clickregister();
 		
 		AccountRegistration regpage = new AccountRegistration(driver);
